@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001380484120",
+    "project_id": "idle-clicker-7ae8f",
+    "storage_bucket": "idle-clicker-7ae8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001380484120:android:cad53e7073277ebb6d9f6d",
+        "android_client_info": {
+          "package_name": "com.project.smolentsev.idleclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001380484120-75nq1arud7far6f7vvdbsruarp6df6it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHzyfiIxkM7HHQqAXe4NKWxnlHQk_j2mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001380484120-75nq1arud7far6f7vvdbsruarp6df6it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

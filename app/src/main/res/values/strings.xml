@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">IDLE BUSSNIESMAN</string>
+
+    <!-- Strings related to Settings -->
+    <string name="level">Level:</string>
+    <!-- Example General settings -->
+    <string name="rewardedAD" translatable="false">ca-app-pub-3088184613976334/7349527663</string>
+    <string name="banner" translatable="false">ca-app-pub-3088184613976334/7088458191</string>
+    <string name="cost" translatable="false">%1$d$</string>
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+    <string name="imageCHR">ch</string>
+    <string name="wait">Wait %1$d sec</string>
+    <string name="wait2">Wait</string>
+    <string name="short_getclick">Get %1$d$ when clicking</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="clicker">Clicker</string>
+    <string name="shop">Shop</string>
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="watch_ads">Watch ads and get\n
+        %1$d$</string>
+    <string name="show_ads">Show ads</string>
+    <string name="new_house">Buy new House</string>
+
+    <string name="bring">Will bring income %1$d$ per second $</string>
+    <string name="coins">Money: %1$s</string>
+    <string name="rich">You are so rich!</string>
+    <string name="not_enough_money">You need more $$$</string>
+    <string name="serious_click_bought">Money for click +1</string>
+    <string name="greedy_piggy_bought">Building bussiness +1</string>
+    <string name="successfully_deleted">You lost all money</string>
+    <string name="little_tommy_hired">Shop business +1</string>
+    <string name="business_pack_captured">Startup +1</string>
+    <string name="sly_mario_captured">Rocket science +1</string>
+    <string name="click_coin_or_shake_ur_phone">Click coin or shake your phone!</string>
+
+    <string name="del">Delete progress</string>
+    <string name="play">Play</string>
+    <string name="build">Building bussiness</string>
+    <string name="shopping">Shop business</string>
+    <string name="startup">Startup</string>
+    <string name="rocket">Rocket science</string>
+    <string name="house">House</string>
+    <string name="character">Upgrade character</string>
+    <string name="max_lvl">Max upgrade</string>
+    <string name="click">Money for click</string>
+    <string name="new_сhr">Upgrade character</string>
+    <string name="about">About us</string>
+    <string name="build_office">Build an office</string>
+    <string name="office">Office +1</string>
+    <string name="office_need">No office space</string>
+    <string name="hunger">Hunger +%1$d</string>
+    <string name="relax">Relax +%1$d</string>
+    <string name="coffe">Coffee</string>
+    <string name="pizza">Pizza</string>
+    <string name="rest">A restaurant</string>
+    <string name="sushi">Sushi</string>
+    <string name="game">Play console</string>
+    <string name="sport">Play sports</string>
+    <string name="karaoke">Sing karaoke</string>
+    <string name="air">Travel</string>
+    <string name="full_hunger">You are full</string>
+    <string name="full_relax">You rested</string>
+    <string name="the_end1">You haven\'t logged into the game for a long time</string>
+    <string name="the_end2">Your character is very hungry</string>
+    <string name="the_end3">You will have to start over</string>
+    <string name="tutorial1">Hello!</string>
+    <string name="tutorial1_2">Earn money and develop yourself</string>
+    <string name="tutorial1_3">Build an office to start a business</string>
+    <string name="tutorial2">You have your own character</string>
+    <string name="tutorial2_2">He has a feeling of hunger, so do not forget to eat lunch</string>
+    <string name="tutorial2_3">If hunger becomes 0, you will have to start the game again.</string>
+    <string name="tutorial2_4">Do not forget to relax, because without rest, business profits will fall</string>
+
+</resources>

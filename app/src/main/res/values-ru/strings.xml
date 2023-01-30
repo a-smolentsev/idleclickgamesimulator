@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="app_name">IDLE BUSSNIESMAN</string>
+
+        <!-- Предметы в магазине -->
+        <string name="level">Уровень:</string>
+        <string name="click">Деньги за клик</string>
+        <string name="house">Дом</string>
+        <string name="character">Улучшить персонажа</string>
+        <string name="build">Строительный бизнес</string>
+        <string name="shopping">Свой магазин</string>
+        <string name="startup">Стартап</string>
+        <string name="rocket">Ракетостроение</string>
+        <string name="relax">Отдых +%1$d</string>
+        <string name="coffe">Кофе</string>
+        <string name="pizza">Пицца</string>
+        <string name="sushi">Суши</string>
+        <string name="rest">Ресторан</string>
+        <string name="game">Играть в консоль</string>
+        <string name="sport">Заниматься спортом</string>
+        <string name="karaoke">Петь караоке</string>
+        <string name="air">Путешествовать</string>
+
+        <!-- Описание предметов в магазине -->
+        <string name="short_getclick">Получать %1$d$ от кликов</string>
+        <string name="hunger">Голод +%1$d</string>
+        <string name="bring">Будешь получать доход %1$d$ в сек</string>
+        <string name="new_сhr">Обновить одежду</string>
+        <string name="new_house">Купить новый дом</string>
+
+
+
+        <!-- Strings related to Settings -->
+
+        <!-- Example General settings -->
+
+        <!-- Example settings for Data & Sync -->
+
+        <!-- Example settings for Notifications -->
+        <string name="wait">Подождите %1$d сек</string>
+        <string name="wait2">Подождите</string>
+        <string name="imageCHR">ch</string>
+
+        <string name="title_activity_play">PlayActivity</string>
+        <string name="clicker">Заработать</string>
+        <string name="shop">Магазин</string>
+        <string name="back">Назад</string>
+        <string name="settings">Настройки</string>
+        <string name="watch_ads">Посмотреть рекламу и получить\n
+                %1$d$</string>
+        <string name="show_ads">Просмотр рекламы</string>
+
+
+        <string name="coins">Деньги: %1$s</string>
+        <string name="rich">Вы очень богаты!</string>
+        <string name="not_enough_money">Увы, недостаточно средств</string>
+        <string name="serious_click_bought">Денег за клик +1</string>
+        <string name="greedy_piggy_bought">Строительный бизнес расширен +1</string>
+        <string name="successfully_deleted">Ты начал с чистого листа</string>
+        <string name="little_tommy_hired">Открыт еще один магазин +1</string>
+        <string name="business_pack_captured">Рост стартапа +1</string>
+        <string name="sly_mario_captured">Модернизация космодрома +1</string>
+        <string name="click_coin_or_shake_ur_phone">Кликай или встряхни телефон</string>
+        <string name="del">Удалить прогресс</string>
+        <string name="play">Играть</string>
+
+
+        <string name="max_lvl">Максимальный уровень</string>
+
+        <string name="about">О приложении</string>
+        <string name="build_office">Строить офис</string>
+        <string name="office">Офис +1</string>
+        <string name="office_need">Мало офисных помещений</string>
+
+        <string name="full_hunger">Вы сыты</string>
+        <string name="full_relax">Вы отдохнули</string>
+        <string name="the_end1">Вы долго не заходили в игру</string>
+        <string name="the_end2">ваш персонаж очень проголодался.</string>
+        <string name="the_end3">Вам придется начать сначала.</string>
+
+        <string name="tutorial1">Привет!</string>
+        <string name="tutorial1_2">Зарабатывай деньги и развивайся</string>
+        <string name="tutorial1_3">Строй офис, чтобы открыть бизнес</string>
+        <string name="tutorial2">Это твой персонаж</string>
+        <string name="tutorial2_2">Он имеет чувство голода, не забывай обедать</string>
+        <string name="tutorial2_3">Если голод станет равен 0, придется начать игру сначала</string>
+        <string name="tutorial2_4">Не забывай отдыхать, без отдыха прибыль с бизнеса упадет </string>
+
+</resources>
